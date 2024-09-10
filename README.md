@@ -50,19 +50,29 @@ Based on data from the Cosmos Hub blockchain, the Centrifuge platform creates ra
 ### Economic Benefit
 
 Zealy is the cheapest quest- / task- hosting platform for now. 
+
 Zealy asks for their service minimum 549$ per month (6588$ per year) from each project, and this amount is higher the more users interact with the platform.
 A lot of projects and communities have a Zealy program, but they are not really happy with the price of service, but they can't stop to use it, because they don't have any real alternative to Zealy, and they don't want to lose participants.
+
 All these projects and communities will be glad to move their activity from Zealy to the alternative service, if this service will provide the same functionality, but will ask for less payment.
+
 All other quest- / task- hosting platforms are more expensive than Zealy. To use such platforms as BBlock or Galaxy, price starts from 15.000$
 
 ### 1) Increasing of amount of transactions in Cosmos Hub in several times:
 
-Centrifuge will have totally the same functionality, but the price will be much less.
-To connect to Centrifuge, projects will need to use not web2-services, but cosmos wallets (Keplr, Cosmostation, Leap)
-To create their own profile, the project will need to make just a one-time payment of 10 ATOM (this price can be changed, and it can be just 1 ATOM).
-If 10 ATOM or 1 ATOM will be too much for the project, for example, price of ATOM will go up, and it will be very big amount, we can use another method:
-Projects don't pay anything for creating quests or tasks, but every creation of quest and/or task - is a transaction in Cosmos Hub, and projects need to pay a fee. Projects always create new quests and tasks, so they always will pay fees, which will increase the amount of transactions in Cosmos Hub.
-And every time, when user take quest and/or task - user pay fee (for users it's very small amount), and when user return to proof that quest/task solved, user again need to pay fee, it means, that total amount of transactions in Cosmos Hub will be increased in many times. For example, if a project created 10 quests, and 3000 users took these quests, and after proof that they solved it - it will be an additional 60.000 transactions in Cosmos Hub, just from one project. And it can be done in just 1 day! This is not optimism, this is how it works in Zealy or BBlock, and users solved many more tasks, so this is a pessimistic scenario! And total amount of daily transactions in Cosmos Hub ~30.000
+Centrifuge will have totally the same functionality, but the price will be much less:
+- To connect to Centrifuge, projects will need to use not web2-services, but cosmos wallets (Keplr, Cosmostation, Leap)
+- To create their own profile, the project will need to make just a one-time payment of 10 ATOM (this price can be changed, and it can be just 1 ATOM).
+- If 10 ATOM or 1 ATOM will be too much for the project, for example, price of ATOM will go up, and it will be very big amount, we can use another method:
+Projects don't pay anything for creating quests or tasks, but every creation of quest and/or task - is a transaction in Cosmos Hub, and projects need to pay a fee.
+
+Projects always create new quests and tasks, so they always will pay fees, which will increase the amount of transactions in Cosmos Hub.
+
+And every time, when user take quest and/or task - user pay fee (for users it's very small amount), and when user return to proof that quest/task solved, user again need to pay fee, it means, that total amount of transactions in Cosmos Hub will be increased in many times. 
+
+For example, if a project created 10 quests, and 3000 users took these quests, and after proof that they solved it - it will be an additional 60.000 transactions in Cosmos Hub, just from one project. 
+And it can be done in just 1 day! This is not optimism, this is how it works in Zealy or BBlock, and users solved many more tasks, so this is a pessimistic scenario! And total amount of daily transactions in Cosmos Hub ~30.000
+
 So, with such a model, projects will be very motivated to move their quests from Zealy, BBlock and/or Galaxy to Centrifuge, because for projects it will be very cheap, and for users it also will be very cheap. Every user is ready to send much more than 10 trx per day to have a chance to win reward, we can see it by any airdrop campaign, where users send 100-200 trx everyday, to be eligible for airdrop!
 
 The same, as on DAODAO, projects and users always pay a fee to create DAO, to create proposals, to vote on proposals and so on. But even this is less than payment for Zealy, BBlock or Galaxy! So, projects will be glad to have the same functionality, but for less payment!
