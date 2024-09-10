@@ -49,36 +49,77 @@ Based on data from the Cosmos Hub blockchain, the Centrifuge platform creates ra
 
 ### Economic Benefit
 
-Currently, Zealy is the cheapest platform for posting quests and tasks, but its cost starts at $549 per month ($6588 per year). For many projects and communities, these are significant expenses. The BBlock and Galaxy platforms are even more expensive, starting at $15,000.
+Zealy is the cheapest quest- / task- hosting platform for now. 
+Zealy asks for their service minimum 549$ per month (6588$ per year) from each project, and this amount is higher the more users interact with the platform.
+A lot of projects and communities have a Zealy program, but they are not really happy with the price of service, but they can't stop to use it, because they don't have any real alternative to Zealy, and they don't want to lose participants.
+All these projects and communities will be glad to move their activity from Zealy to the alternative service, if this service will provide the same functionality, but will ask for less payment.
+All other quest- / task- hosting platforms are more expensive than Zealy. To use such platforms as BBlock or Galaxy, price starts from 15.000$
 
-Centrifuge offers the same functionality for a significantly lower fee. Projects pay a one-time project profile registration fee of 1 ATOM (payment can be negotiated or even set by voting on a proposal in the Cosmos Hub), as well as transaction fees in the Cosmos Hub. 
-Posting a quest or task on the Centrifuge platform from the project profile is a transaction in the Cosmos Hub and also requires a transaction fee.
+### 1) Increasing of amount of transactions in Cosmos Hub in several times:
 
-The low cost of transactions in the Cosmos Hub makes Centrifuge more accessible and attractive to many projects and communities compared to Zealy, BBlock, or Galaxy. 
-Since each quest or task posting, selection, and completion confirmation on Centrifuge is a transaction in the Cosmos Hub network, this increases the total number of transactions, thereby increasing demand for ATOM. Interaction between Projects and Cosmonauts will lead to a constant increase in the number of transactions and add utility to the ATOM token, which will drive demand for ATOM in the market and, consequently, increase its price.
+Centrifuge will have totally the same functionality, but the price will be much less.
+To connect to Centrifuge, projects will need to use not web2-services, but cosmos wallets (Keplr, Cosmostation, Leap)
+To create their own profile, the project will need to make just a one-time payment of 10 ATOM (this price can be changed, and it can be just 1 ATOM).
+If 10 ATOM or 1 ATOM will be too much for the project, for example, price of ATOM will go up, and it will be very big amount, we can use another method:
+Projects don't pay anything for creating quests or tasks, but every creation of quest and/or task - is a transaction in Cosmos Hub, and projects need to pay a fee. Projects always create new quests and tasks, so they always will pay fees, which will increase the amount of transactions in Cosmos Hub.
+And every time, when user take quest and/or task - user pay fee (for users it's very small amount), and when user return to proof that quest/task solved, user again need to pay fee, it means, that total amount of transactions in Cosmos Hub will be increased in many times. For example, if a project created 10 quests, and 3000 users took these quests, and after proof that they solved it - it will be an additional 60.000 transactions in Cosmos Hub, just from one project. And it can be done in just 1 day! This is not optimism, this is how it works in Zealy or BBlock, and users solved many more tasks, so this is a pessimistic scenario! And total amount of daily transactions in Cosmos Hub ~30.000
+So, with such a model, projects will be very motivated to move their quests from Zealy, BBlock and/or Galaxy to Centrifuge, because for projects it will be very cheap, and for users it also will be very cheap. Every user is ready to send much more than 10 trx per day to have a chance to win reward, we can see it by any airdrop campaign, where users send 100-200 trx everyday, to be eligible for airdrop!
 
-### Support for IBC Protocol
+The same, as on DAODAO, projects and users always pay a fee to create DAO, to create proposals, to vote on proposals and so on. But even this is less than payment for Zealy, BBlock or Galaxy! So, projects will be glad to have the same functionality, but for less payment!
 
-The primary target audience of Centrifuge is networks and projects in the Cosmos Ecosystem. 
-At the time of writing, according to https://ping.pub/, there are 112 networks operating in the Cosmos Ecosystem. The number of projects in the Cosmos Ecosystem is incalculable, but it is certainly more than 1000.
+Centrifuge will increase the amount of transactions in Cosmos HUB, and usability of ATOM!
 
-Centrifuge will become a key platform for dApps, validators, communities, DAOs, gaming projects, and NFT collections in the Cosmos Ecosystem. 
-To pay rewards for completing quests and tasks in own tokens, Projects from the Cosmos Ecosystem will transfer their tokens to the Cosmos Hub via the IBC-protocol, increasing the number of IBC-transactions to the Cosmos Hub from other networks in the Cosmos Ecosystem. 
-Cosmonauts who receive rewards for completing quests and tasks in IBC-tokens will withdraw them to native networks, increasing the number of IBC-transactions from the Cosmos Hub to other networks in the Cosmos Ecosystem, which will also increase the useability of ATOM.
+### 2) Increasing of IBC-transactions from other Cosmos chains to Cosmos Hub:
 
-### Centrifuge Potential
+We have more than 100 networks only in the Cosmos Ecosystem with IBC-protocol, and the number of projects is already more than 1000, and it's constantly growing. All of them are our main target group: dApps, validators, communities, DAOs, game projects, NFT collections...
+These projects will access Centrifuge to create quests and tasks, and they will give rewards to cosmonauts in their own native tokens.
+To do it, project need: 
+- Send their tokens to Cosmos Hub with IBC-transfer from native chains (that will increase amount of IBC-transactions to Cosmos HUB, and also amount of transactions in Cosmos Hub, because every time project need to send rewards to cosmonauts, projects will send IBC-tokens in Cosmos Hub, from their address to address of cosmonauts)
+- When cosmonauts will get rewards in IBC-tokens (and this is big amount of addresses), they will need to IBC-transfer it back to native chains, and it will increase of IBC-transactions from Cosmos Hub to other cosmos chains (for example, if 3000 people have got IBC-tokens as a reward, they will perform 3000 IBC-transactions from Cosmos Hub to another native chain)
 
-Zealy Cosmos Ecosystem stopped functioning after the introduction of paid services by Zealy. 
-Over one year, only in the Zealy Cosmos Ecosystem, 42 Projects were added, over 10,000 quests and tasks were posted, and in total, users completed 1,164,425 tasks in one year! 
-Detailed information can be found here: https://docs.google.com/document/d/1xd6jgOPkCyMhAl4YexnGU8BawEHj-oY8eVnH_4qkbsQ/edit?usp=sharing
+### 3) Example of metrics, based on real case of Cosmos Ecosystem Zealy
+ 
+Even if fees in Cosmos Hub are very small, and this is not a problem for cosmonauts to pay fees for the tasks and quests, the "amount of cosmonauts" * "amount of quests and tasks" * "amount of projects" = huge amount of transactions and fees!
 
-If the Zealy Cosmos Ecosystem had been on the Centrifuge platform, this would have brought an additional 1,164,425 transactions to the Cosmos Hub! 
-At the time of writing, the total number of transactions in the Cosmos Hub throughout its existence is 71,650,000. 
-Thus, simply transferring the Zealy Cosmos Ecosystem to Centrifuge would have increased the total number of transactions in the Cosmos Hub by 1.6% in one year!
+Only "Zealy of Cosmos Ecosystem" (that was closed after Zealy start to ask for payment" had 3834 participants: https://zealy.io/cw/cosmosecosystem/leaderboard
 
-With good marketing and information support from AADAO, Cosmos Twitter, and Cosmos Ecosystem Twitter, hundreds or even a thousand projects will migrate to Centrifuge, which will increase the number of transactions in the Cosmos Hub by 2-3 times.
+42 projects created more than 10,000 quests and tasks, and in total, for 1 year, all participants claimed: 1,164,425 - detailed information with all proofs can be found here: https://docs.google.com/document/d/1xd6jgOPkCyMhAl4YexnGU8BawEHj-oY8eVnH_4qkbsQ/edit?usp=sharing
 
-With the implementation of ICS 2.0 and the increase in the number of consumer chains, more projects will come to Centrifuge, and/or migrate from Zealy, BBlock, or Galaxy to Centrifuge platform, which could make Centrifuge the primary provider of transactions in the Cosmos Hub.
+If all these claiming of quests would be made in Centrifuge, not in Zealy, Cosmos Hub could got 1,164,425 * 2  = 2,328,850 transactions more! (because if user need to pay fee every time when quest/task is taken, and after pay fee to proof that quest/task is solved, we need to multiply amount of claimed/solved quests/tasks on 2)
+
+For the moment of filling  this form, the total amount of transactions in Cosmos Hub is 73,0217,574. 
+It means, that only one transfer of Zealy Cosmos Ecosystem to Centrifuge, just for one year, can increase amount of transactions in Cosmos Hub for all the time of existing of Cosmos Hub on 3.1%
+ 
+And we will transfer to Centrifuge from Zealy many more projects!
+
+With good marketing and informational support from AADAO, Cosmos Twitter and Cosmos Ecosystem Twitter, it's possible to attract to Centrifuge all active validators of Cosmos Hub (this is more than 100 validators, that will create quests and tasks to delegate them ATOM) - it will increase not only amount of transactions, but also will increase amount of staked ATOMs
+
+Also, with coming of ICS 2.0 - it will be more and more consumers chains, and also, many more projects on this chains, and all of them will prefer to use Centrifuge instead of Zealy, BBlocks or Galaxy
+
+As you understand, all this will increase the demand for ATOM, since all actions in the Centrifuge will require payment of fees in ATOM.
+
+### 4) The Centrifuge platform does not need to be deployed to the Cosmos Hub, so we do not need to raise a proposal
+
+Connecting to Centrifuge will be done using Keplr, Cosmostation or Leap, and creating of quests/tasks, taking quests/tasks and confirming quests/task will generate a transaction on the backend that the project or user must sign, and such a transaction will be sent to the Cosmos Hub meme pool.
+
+So, Centrifuge will be kind of dApp on Cosmos Hub
+
+### 5) As we already started to develop Centrifuge, we already do it for our own funds, that we've got from validation of Cosmos Hub
+
+It means that we don't sell our rewards for validation, but invest it back to develop the Cosmos Hub and community.
+Even if we will not get grants, we will create this platform, but in this case, it will be not a public good, but our own service, and we will need to look for other ways of monetization.
+But first, we want to create a public good that will be useful for the Cosmos Hub and the whole Ecosystem, as we are Cosmos Maximalists! And we hope that AADAO will support us in this wish!
+
+### 6) Our market entry strategy is mass dissemination of information about the Centrifuge platform among the Cosmos Ecosystem community, and for this we have several large communities and social networks, for example:
+https://x.com/CosmosEcosystem
+
+In addition, if AADAO agrees to give us a grant for development, and given that we are making this platform on the Cosmos Hub, we hope that the Cosmos social networks on Twitter will also help with the dissemination of information about the launch of Centrifuge.
+
+In addition, for projects it does not matter which platform to use, they proceed from the costs of paying for such services, and it is obvious that with the same functionality, but with costs hundreds of times less, Centrifuge will be more profitable than Zealy, BBlock or Galaxy.
+
+For users, it does not matter where to complete tasks, they are motivated exclusively by the rewards for completing such tasks
+
+Also, Centrifuge will be the first platform that is connected to Cosmos Hub! So, it will be a very good reason for attention!
 
 ## Conclusion
 
